@@ -11,4 +11,5 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
         int a=10;
+        int b=20;
 }
